@@ -23,9 +23,11 @@ Make sure FFmpeg is installed and its path is correctly set in the VideoSilenceC
 
 2.Usage
 Place your input video files in the Input folder.
+
 ## Folder Structure
 The project is organized as follows:
-```bash
+ 
+ ```bash
 VideoSilenceCutter/
 │
 ├── Input/                        # Folder for input video files
@@ -40,7 +42,6 @@ VideoSilenceCutter/
 ├── requirements.txt              # List of dependencies (e.g., ffmpeg-python)
 └── README.md                     # Project documentation
 
-```bash
 
 ## Run the script:
 python scripts/VideoSilenceCutter.py
