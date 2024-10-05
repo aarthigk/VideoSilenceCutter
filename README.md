@@ -25,7 +25,7 @@ Make sure FFmpeg is installed and its path is correctly set in the VideoSilenceC
 Place your input video files in the Input folder.
 ## Folder Structure
 The project is organized as follows:
-
+```bash
 VideoSilenceCutter/
 │
 ├── Input/                        # Folder for input video files
