@@ -57,3 +57,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 Acknowledgments
 Special thanks to FFmpeg for providing powerful multimedia processing capabilities.
+
+![License](https://img.shields.io/badge/license-MIT-blue)
+
