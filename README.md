@@ -40,18 +40,18 @@ VideoSilenceCutter/
 ├── requirements.txt              # List of dependencies (e.g., ffmpeg-python)
 └── README.md                     # Project documentation
 
+```bash
 
-
-Run the script:
+## Run the script:
 python scripts/VideoSilenceCutter.py
 The output video will be saved in the Output folder.
 
-Configuration
+## Configuration
 You can adjust the noise_threshold and min_silence_duration variables in the script to customize the silence detection criteria.
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+##Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
 
 Acknowledgments
