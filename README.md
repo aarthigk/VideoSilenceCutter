@@ -49,8 +49,10 @@ The output video will be saved in the Output folder.
 
 ## Configuration
 You can adjust the noise_threshold and min_silence_duration variables in the script to customize the silence detection criteria.
-##License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ##Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
